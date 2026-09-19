@@ -1,0 +1,22 @@
+vinted-profit-analyzer/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Header.tsx
+│   │   ├── Analyzer.tsx
+│   │   ├── Comparator.tsx
+│   │   ├── Dashboard.tsx
+│   │   ├── History.tsx
+│   │   └── Subscription.tsx
+│   ├── types.ts
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+├── .gitignore
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
